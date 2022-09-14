@@ -2,10 +2,14 @@
 # Hi there 👋  I'm Yairys 
 And i'm a Full Stack Developer 
 
+
+
 ## ⚡ About Me
 I'm a curious, very dedicated, empathic and highly competitive person. I enjoy to figure out how things works and i'm always seeking for new challenges. I also love sharing knowledge with others and learning from them. 
 
 :books: I’m currently (and always) deepening my knowledge, i would like to learn <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">.
+
+
 
 
 ### :computer: Some Techs & Tools Preferences
@@ -30,8 +34,12 @@ I'm a curious, very dedicated, empathic and highly competitive person. I enjoy t
 
 
 
+
+
 ### :rocket: Contact me 
 <a href="https:/www.linkedin.com/in/yairys-aristigueta/" target="__blank"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="Yairys" height="25" width="25" />  LinkedIn</a>
+
+
 
 <a href="mailto:yayi.arist.hz@gmail.com " target="__blank"><img align="center" src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Yairys" height="25" width="25" />  Yayi.arist.hz@gmail.com</a>
 
